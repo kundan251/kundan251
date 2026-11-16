@@ -1,71 +1,73 @@
-<h1 align="center">Hi 👋, I'm Kundan Sharma</h1>
+\<h1 align="center">Hi 👋, I'm Kundan Sharma\</h1>
 
-<h3 align="center">BCA Student | Full Stack Web Developer | MERN Stack Enthusiast</h3>
+\<h3 align="center">💻 Full Stack Web Developer | MERN Stack Enthusiast\</h3>
 
-<p align="center">
-  Building modern web applications and exploring new technologies.
-</p>
+\<p align="center">
+&#x20; Passionate about building modern, responsive and user-friendly web applications.
+\</p>
 
 ---
 
-## 🚀 About Me
+### 👨‍💻 About Me
 
-- 🎓 BCA Student at International School of Management, Patna.
-- 💻 Interested in Full Stack Web Development.
+- 🎓 BCA Student
 - 🌱 Currently learning and improving my MERN Stack skills.
-- 🔭 Working on **SanskritSetu – Digital Sanskrit-English Glossary for Indian Knowledge Systems**.
-- 🎯 Goal: Become a skilled Full Stack Developer.
+- 💡 Interested in Full Stack Development and Problem Solving.
+- 🚀 Focused on building practical web development projects.
+- 🎯 Working towards becoming a professional Full Stack Developer.
 
 ---
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,bootstrap,git,github,vscode" />
-</p>
+#### Frontend Development
 
----
+\<p>   \<img src="[https://skillicons.dev/icons?i=html,css,js,react,bootstrap](https://skillicons.dev/icons?i=html,css,js,react,bootstrap)" /> \</p>
 
-## 🌟 Featured Project
+#### Backend Development
 
-### SanskritSetu
+\<p>   \<img src="[https://skillicons.dev/icons?i=nodejs,express](https://skillicons.dev/icons?i=nodejs,express)" /> \</p>
 
-A Digital Sanskrit-English Glossary for Indian Knowledge Systems.
+#### Database
 
-- 📚 Searchable Sanskrit-English glossary.
-- 🔎 Search Sanskrit terminology and meanings.
-- 🗂️ Categories and word details.
-- ❤️ Favourites and recently viewed words.
-- 👤 User authentication and admin dashboard.
-- 📱 Responsive web interface.
+\<p>   \<img src="[https://skillicons.dev/icons?i=mongodb](https://skillicons.dev/icons?i=mongodb)" /> \</p>
 
-**Live Website:** https://sanskrit-setu-chi.vercel.app/
+#### Tools & Technologies
 
-**GitHub Repository:** https://github.com/kundan251/-SanskritSetu
+\<p>   \<img src="[https://skillicons.dev/icons?i=git,github,vscode,postman](https://skillicons.dev/icons?i=git,github,vscode,postman)" /> \</p>
 
 ---
 
-## 📊 GitHub Statistics
+### 💻 MERN Stack
 
-- 💻 Active GitHub Developer
-- 🚀 Building projects with MERN Stack
-- 🌱 Continuously learning new technologies
-
----
-
-## 🤝 Connect With Me
-
-<p align="left">
-  <a href="https://github.com/kundan251">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://sanskrit-setu-chi.vercel.app/">
-    <img src="https://img.shields.io/badge/SanskritSetu-Live%20Project-blue?style=for-the-badge" />
-  </a>
-</p>
+\<p align="center">
+&#x20; \<img src="[https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)" />
+&#x20; \<img src="[https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)" />
+&#x20; \<img src="[https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black](https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)" />
+&#x20; \<img src="[https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)" />
+\</p>
 
 ---
 
-<p align="center">
-  <b>Thanks for visiting my profile! ⭐</b>
-</p>
+### 📊 GitHub Activity
+
+\<p align="center">
+&#x20; \<img src="[https://github-readme-stats.vercel.app/api?username=kundan251&show_icons=true&theme=default&hide_border=true](https://github-readme-stats.vercel.app/api?username=kundan251\&show_icons=true\&theme=default\&hide_border=true)" height="160" />
+&#x20; \<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=kundan251&layout=compact&theme=default&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=kundan251\&layout=compact\&theme=default\&hide_border=true)" height="160" />
+\</p>
+
+---
+
+### 🤝 Connect With Me
+
+\<p align="left">
+&#x20; \<a href="[https://github.com/kundan251](https://github.com/kundan251)">
+&#x20;   \<img src="[https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)" />
+&#x20; \</a>
+\</p>
+
+---
+
+\<p align="center">   \<b>✨ Code • Learn • Build • Grow ✨\</b> \</p>
+
+\<p align="center">   Thanks for visiting my profile! ⭐ \</p>
