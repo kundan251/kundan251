@@ -47,10 +47,9 @@ A Digital Sanskrit-English Glossary for Indian Knowledge Systems.
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kundan251&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kundan251&layout=compact&theme=tokyonight" height="165" />
-</p>
+- 💻 Active GitHub Developer
+- 🚀 Building projects with MERN Stack
+- 🌱 Continuously learning new technologies
 
 ---
 
